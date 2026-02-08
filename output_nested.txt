@@ -1,0 +1,3 @@
+ # Compiler version = GCC version 13.3.0
+ # Compiler flags = -mtune=generic -march=x86-64 -O3 -fpre-include=/usr/include/finclude/x86_64-linux-gnu/math-vector-fortran.h
+ # Result =    387420489.00000000     
